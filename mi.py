@@ -8,8 +8,8 @@ import time
 from splinter import Browser
 
 # Data area
-USER = 'ocelot1985@163.com'
-PASS = '1985zk1110yz'
+USER = 'XXX'
+PASS = 'XXX'
 
 
 def Login(browser):
